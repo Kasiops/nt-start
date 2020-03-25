@@ -1,29 +1,16 @@
-# nailtoday
+# О проекте
+Делал для себя личный проект по контролю за своей жизнью.
+Не законченный. Залил для просмотра кода для работадателей.
+Здесь очень мало. 
+Если нужно больше, то могу залить часть рабочих проектов 
 
-## Project setup
+### Как это работает, думаю вы сами знаете :)
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
